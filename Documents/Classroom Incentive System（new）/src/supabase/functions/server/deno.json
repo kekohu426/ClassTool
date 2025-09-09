@@ -1,0 +1,21 @@
+{
+  "imports": {
+    "hono": "https://deno.land/x/hono@v4.6.14/mod.ts",
+    "hono/cors": "https://deno.land/x/hono@v4.6.14/middleware.ts",
+    "hono/logger": "https://deno.land/x/hono@v4.6.14/middleware.ts"
+  },
+  "compilerOptions": {
+    "allowJs": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "checkJs": false,
+    "experimentalDecorators": false,
+    "lib": ["deno.window"],
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noImplicitUseStrict": false,
+    "noUncheckedIndexedAccess": false,
+    "strict": true,
+    "useDefineForClassFields": true
+  }
+}

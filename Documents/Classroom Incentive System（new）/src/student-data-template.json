@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "张小明",
+    "group": "第一",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "2",
+    "name": "李小红",
+    "group": "第一",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "3",
+    "name": "王小华",
+    "group": "第一",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "4",
+    "name": "刘小芳",
+    "group": "第一",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "5",
+    "name": "陈小强",
+    "group": "第一",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "6",
+    "name": "黄小美",
+    "group": "第二",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "7",
+    "name": "赵小勇",
+    "group": "第二",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "8",
+    "name": "孙小丽",
+    "group": "第二",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "9",
+    "name": "周小杰",
+    "group": "第二",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "10",
+    "name": "吴小雨",
+    "group": "第二",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "11",
+    "name": "郑小东",
+    "group": "第三",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "12",
+    "name": "何小西",
+    "group": "第三",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "13",
+    "name": "高小南",
+    "group": "第三",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "14",
+    "name": "林小北",
+    "group": "第三",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "15",
+    "name": "谢小中",
+    "group": "第三",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "16",
+    "name": "罗小发",
+    "group": "第四",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "17",
+    "name": "韩小财",
+    "group": "第四",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "18",
+    "name": "冯小富",
+    "group": "第四",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "19",
+    "name": "梁小贵",
+    "group": "第四",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "20",
+    "name": "邓小荣",
+    "group": "第四",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "21",
+    "name": "江小华",
+    "group": "第五",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "22",
+    "name": "丁小亮",
+    "group": "第五",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "23",
+    "name": "宋小静",
+    "group": "第五",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "24",
+    "name": "万小敏",
+    "group": "第五",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "25",
+    "name": "石小慧",
+    "group": "第五",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "26",
+    "name": "任小军",
+    "group": "第六",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "27",
+    "name": "柳小娟",
+    "group": "第六",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "28",
+    "name": "童小波",
+    "group": "第六",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "29",
+    "name": "汪小琴",
+    "group": "第六",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  },
+  {
+    "id": "30",
+    "name": "姜小平",
+    "group": "第六",
+    "points": 0,
+    "homeworkCount": 0,
+    "interactionCount": 0
+  }
+]
